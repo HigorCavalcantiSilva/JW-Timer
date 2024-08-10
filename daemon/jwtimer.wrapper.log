@@ -1,0 +1,228 @@
+2024-08-09 16:10:27 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Dev G2i\Desktop\Higor\JWTimer\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Dev G2i\Desktop\Higor\JWTimer\index.js" --scriptoptions= --log "JWTimer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-08-09 16:10:27 - Started 9912
+2024-08-09 16:11:05 - Stopping jwtimer.exe
+2024-08-09 16:11:05 - ProcessKill 9912
+2024-08-09 16:11:05 - Found child process: 3832 Name: conhost.exe
+2024-08-09 16:11:05 - Found child process: 17784 Name: node.exe
+2024-08-09 16:11:05 - Stopping process 3832
+2024-08-09 16:11:05 - Send SIGINT 3832
+2024-08-09 16:11:05 - SIGINT to 3832 failed - Killing as fallback
+2024-08-09 16:11:05 - Stopping process 17784
+2024-08-09 16:11:05 - Send SIGINT 17784
+2024-08-09 16:11:05 - SIGINT to 17784 failed - Killing as fallback
+2024-08-09 16:11:05 - Stopping process 9912
+2024-08-09 16:11:05 - Send SIGINT 9912
+2024-08-09 16:11:05 - SIGINT to 9912 failed - Killing as fallback
+2024-08-09 16:11:05 - Finished jwtimer.exe
+2024-08-09 16:11:08 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Dev G2i\Desktop\Higor\JWTimer\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Dev G2i\Desktop\Higor\JWTimer\index.js" --scriptoptions= --log "JWTimer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-08-09 16:11:08 - Started 8076
+2024-08-09 16:11:18 - Stopping jwtimer.exe
+2024-08-09 16:11:18 - ProcessKill 8076
+2024-08-09 16:11:18 - Found child process: 20528 Name: conhost.exe
+2024-08-09 16:11:18 - Found child process: 13176 Name: node.exe
+2024-08-09 16:11:18 - Stopping process 20528
+2024-08-09 16:11:18 - Send SIGINT 20528
+2024-08-09 16:11:18 - SIGINT to 20528 failed - Killing as fallback
+2024-08-09 16:11:18 - Stopping process 13176
+2024-08-09 16:11:18 - Send SIGINT 13176
+2024-08-09 16:11:18 - SIGINT to 13176 failed - Killing as fallback
+2024-08-09 16:11:18 - Stopping process 8076
+2024-08-09 16:11:18 - Send SIGINT 8076
+2024-08-09 16:11:18 - SIGINT to 8076 failed - Killing as fallback
+2024-08-09 16:11:18 - Finished jwtimer.exe
+2024-08-09 16:11:20 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Dev G2i\Desktop\Higor\JWTimer\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Dev G2i\Desktop\Higor\JWTimer\index.js" --scriptoptions= --log "JWTimer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-08-09 16:11:20 - Started 12024
+2024-08-09 16:32:37 - Stopping jwtimer.exe
+2024-08-09 16:32:37 - ProcessKill 12024
+2024-08-09 16:32:37 - Found child process: 1716 Name: conhost.exe
+2024-08-09 16:32:37 - Found child process: 7548 Name: node.exe
+2024-08-09 16:32:37 - Stopping process 1716
+2024-08-09 16:32:37 - Send SIGINT 1716
+2024-08-09 16:32:37 - SIGINT to 1716 failed - Killing as fallback
+2024-08-09 16:32:37 - Stopping process 7548
+2024-08-09 16:32:37 - Send SIGINT 7548
+2024-08-09 16:32:37 - SIGINT to 7548 failed - Killing as fallback
+2024-08-09 16:32:37 - Stopping process 12024
+2024-08-09 16:32:37 - Send SIGINT 12024
+2024-08-09 16:32:37 - SIGINT to 12024 failed - Killing as fallback
+2024-08-09 16:32:37 - Finished jwtimer.exe
+2024-08-09 16:32:39 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Dev G2i\Desktop\Higor\JWTimer\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Dev G2i\Desktop\Higor\JWTimer\index.js" --scriptoptions= --log "JWTimer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-08-09 16:32:39 - Started 11280
+2024-08-09 16:32:46 - Stopping jwtimer.exe
+2024-08-09 16:32:46 - ProcessKill 11280
+2024-08-09 16:32:47 - Found child process: 7052 Name: conhost.exe
+2024-08-09 16:32:47 - Found child process: 9632 Name: node.exe
+2024-08-09 16:32:47 - Stopping process 7052
+2024-08-09 16:32:47 - Send SIGINT 7052
+2024-08-09 16:32:47 - SIGINT to 7052 failed - Killing as fallback
+2024-08-09 16:32:47 - Stopping process 9632
+2024-08-09 16:32:47 - Send SIGINT 9632
+2024-08-09 16:32:47 - SIGINT to 9632 failed - Killing as fallback
+2024-08-09 16:32:47 - Stopping process 11280
+2024-08-09 16:32:47 - Send SIGINT 11280
+2024-08-09 16:32:47 - SIGINT to 11280 failed - Killing as fallback
+2024-08-09 16:32:47 - Finished jwtimer.exe
+2024-08-09 16:32:48 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Dev G2i\Desktop\Higor\JWTimer\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Dev G2i\Desktop\Higor\JWTimer\index.js" --scriptoptions= --log "JWTimer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-08-09 16:32:48 - Started 17824
+2024-08-09 16:39:02 - Stopping jwtimer.exe
+2024-08-09 16:39:02 - ProcessKill 17824
+2024-08-09 16:39:03 - Found child process: 15564 Name: conhost.exe
+2024-08-09 16:39:03 - Found child process: 15288 Name: node.exe
+2024-08-09 16:39:03 - Stopping process 15564
+2024-08-09 16:39:03 - Send SIGINT 15564
+2024-08-09 16:39:03 - SIGINT to 15564 failed - Killing as fallback
+2024-08-09 16:39:03 - Stopping process 15288
+2024-08-09 16:39:03 - Send SIGINT 15288
+2024-08-09 16:39:03 - SIGINT to 15288 failed - Killing as fallback
+2024-08-09 16:39:03 - Stopping process 17824
+2024-08-09 16:39:03 - Send SIGINT 17824
+2024-08-09 16:39:03 - SIGINT to 17824 failed - Killing as fallback
+2024-08-09 16:39:03 - Finished jwtimer.exe
+2024-08-09 16:39:04 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Dev G2i\Desktop\Higor\JWTimer\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Dev G2i\Desktop\Higor\JWTimer\index.js" --scriptoptions= --log "JWTimer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-08-09 16:39:04 - Started 19656
+2024-08-09 16:40:00 - Stopping jwtimer.exe
+2024-08-09 16:40:00 - ProcessKill 19656
+2024-08-09 16:40:00 - Found child process: 15608 Name: conhost.exe
+2024-08-09 16:40:00 - Found child process: 21620 Name: node.exe
+2024-08-09 16:40:00 - Stopping process 15608
+2024-08-09 16:40:00 - Send SIGINT 15608
+2024-08-09 16:40:00 - SIGINT to 15608 failed - Killing as fallback
+2024-08-09 16:40:00 - Stopping process 21620
+2024-08-09 16:40:00 - Send SIGINT 21620
+2024-08-09 16:40:00 - SIGINT to 21620 failed - Killing as fallback
+2024-08-09 16:40:00 - Stopping process 19656
+2024-08-09 16:40:00 - Send SIGINT 19656
+2024-08-09 16:40:00 - SIGINT to 19656 failed - Killing as fallback
+2024-08-09 16:40:00 - Finished jwtimer.exe
+2024-08-09 16:40:01 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Dev G2i\Desktop\Higor\JWTimer\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Dev G2i\Desktop\Higor\JWTimer\index.js" --scriptoptions= --log "JWTimer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-08-09 16:40:01 - Started 20276
+2024-08-09 16:50:09 - Stopping jwtimer.exe
+2024-08-09 16:50:09 - ProcessKill 20276
+2024-08-09 16:50:09 - Found child process: 3160 Name: conhost.exe
+2024-08-09 16:50:09 - Found child process: 12100 Name: node.exe
+2024-08-09 16:50:09 - Stopping process 3160
+2024-08-09 16:50:09 - Send SIGINT 3160
+2024-08-09 16:50:09 - SIGINT to 3160 failed - Killing as fallback
+2024-08-09 16:50:09 - Stopping process 12100
+2024-08-09 16:50:09 - Send SIGINT 12100
+2024-08-09 16:50:09 - SIGINT to 12100 failed - Killing as fallback
+2024-08-09 16:50:09 - Stopping process 20276
+2024-08-09 16:50:09 - Send SIGINT 20276
+2024-08-09 16:50:09 - SIGINT to 20276 failed - Killing as fallback
+2024-08-09 16:50:09 - Finished jwtimer.exe
+2024-08-09 16:50:10 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Dev G2i\Desktop\Higor\JWTimer\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Dev G2i\Desktop\Higor\JWTimer\index.js" --scriptoptions= --log "JWTimer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-08-09 16:50:10 - Started 9080
+2024-08-09 16:51:57 - Stopping jwtimer.exe
+2024-08-09 16:51:57 - ProcessKill 9080
+2024-08-09 16:51:57 - Found child process: 13480 Name: conhost.exe
+2024-08-09 16:51:57 - Found child process: 3000 Name: node.exe
+2024-08-09 16:51:57 - Stopping process 13480
+2024-08-09 16:51:57 - Send SIGINT 13480
+2024-08-09 16:51:57 - SIGINT to 13480 failed - Killing as fallback
+2024-08-09 16:51:57 - Stopping process 3000
+2024-08-09 16:51:57 - Send SIGINT 3000
+2024-08-09 16:51:57 - SIGINT to 3000 failed - Killing as fallback
+2024-08-09 16:51:57 - Stopping process 9080
+2024-08-09 16:51:57 - Send SIGINT 9080
+2024-08-09 16:51:57 - SIGINT to 9080 failed - Killing as fallback
+2024-08-09 16:51:57 - Finished jwtimer.exe
+2024-08-09 16:51:59 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Dev G2i\Desktop\Higor\JWTimer\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Dev G2i\Desktop\Higor\JWTimer\index.js" --scriptoptions= --log "JWTimer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-08-09 16:51:59 - Started 11580
+2024-08-09 16:55:26 - Stopping jwtimer.exe
+2024-08-09 16:55:26 - ProcessKill 11580
+2024-08-09 16:55:26 - Found child process: 22328 Name: conhost.exe
+2024-08-09 16:55:26 - Found child process: 20492 Name: node.exe
+2024-08-09 16:55:26 - Stopping process 22328
+2024-08-09 16:55:26 - Send SIGINT 22328
+2024-08-09 16:55:26 - SIGINT to 22328 failed - Killing as fallback
+2024-08-09 16:55:27 - Stopping process 20492
+2024-08-09 16:55:27 - Send SIGINT 20492
+2024-08-09 16:55:27 - SIGINT to 20492 failed - Killing as fallback
+2024-08-09 16:55:27 - Stopping process 11580
+2024-08-09 16:55:27 - Send SIGINT 11580
+2024-08-09 16:55:27 - SIGINT to 11580 failed - Killing as fallback
+2024-08-09 16:55:27 - Finished jwtimer.exe
+2024-08-09 16:55:28 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Dev G2i\Desktop\Higor\JWTimer\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Dev G2i\Desktop\Higor\JWTimer\index.js" --scriptoptions= --log "JWTimer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-08-09 16:55:28 - Started 22108
+2024-08-09 16:57:21 - Stopping jwtimer.exe
+2024-08-09 16:57:21 - ProcessKill 22108
+2024-08-09 16:57:21 - Found child process: 9572 Name: conhost.exe
+2024-08-09 16:57:21 - Found child process: 8564 Name: node.exe
+2024-08-09 16:57:21 - Stopping process 9572
+2024-08-09 16:57:21 - Send SIGINT 9572
+2024-08-09 16:57:21 - SIGINT to 9572 failed - Killing as fallback
+2024-08-09 16:57:21 - Stopping process 8564
+2024-08-09 16:57:21 - Send SIGINT 8564
+2024-08-09 16:57:21 - SIGINT to 8564 failed - Killing as fallback
+2024-08-09 16:57:21 - Stopping process 22108
+2024-08-09 16:57:21 - Send SIGINT 22108
+2024-08-09 16:57:21 - SIGINT to 22108 failed - Killing as fallback
+2024-08-09 16:57:21 - Finished jwtimer.exe
+2024-08-09 16:57:22 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Dev G2i\Desktop\Higor\JWTimer\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Dev G2i\Desktop\Higor\JWTimer\index.js" --scriptoptions= --log "JWTimer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-08-09 16:57:22 - Started 3000
+2024-08-09 17:12:49 - Stopping jwtimer.exe
+2024-08-09 17:12:49 - ProcessKill 3000
+2024-08-09 17:12:49 - Found child process: 16560 Name: conhost.exe
+2024-08-09 17:12:49 - Found child process: 19720 Name: node.exe
+2024-08-09 17:12:49 - Stopping process 16560
+2024-08-09 17:12:49 - Send SIGINT 16560
+2024-08-09 17:12:49 - SIGINT to 16560 failed - Killing as fallback
+2024-08-09 17:12:50 - Stopping process 19720
+2024-08-09 17:12:50 - Send SIGINT 19720
+2024-08-09 17:12:50 - SIGINT to 19720 failed - Killing as fallback
+2024-08-09 17:12:50 - Stopping process 3000
+2024-08-09 17:12:50 - Send SIGINT 3000
+2024-08-09 17:12:50 - SIGINT to 3000 failed - Killing as fallback
+2024-08-09 17:12:50 - Finished jwtimer.exe
+2024-08-09 17:12:51 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Dev G2i\Desktop\Higor\JWTimer\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Dev G2i\Desktop\Higor\JWTimer\index.js" --scriptoptions= --log "JWTimer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-08-09 17:12:51 - Started 19276
+2024-08-09 17:13:17 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Dev G2i\Desktop\Higor\JWTimer\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Dev G2i\Desktop\Higor\JWTimer\index.js" --scriptoptions= --log "JWTimer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-08-09 17:13:17 - Started 784
+2024-08-09 17:14:07 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Dev G2i\Desktop\Higor\JWTimer\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Dev G2i\Desktop\Higor\JWTimer\index.js" --scriptoptions= --log "JWTimer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-08-09 17:14:07 - Started 16216
+2024-08-09 17:14:59 - Stopping jwtimer.exe
+2024-08-09 17:14:59 - ProcessKill 16216
+2024-08-09 17:14:59 - Found child process: 21772 Name: conhost.exe
+2024-08-09 17:14:59 - Found child process: 8352 Name: node.exe
+2024-08-09 17:14:59 - Stopping process 21772
+2024-08-09 17:14:59 - Send SIGINT 21772
+2024-08-09 17:14:59 - SIGINT to 21772 failed - Killing as fallback
+2024-08-09 17:14:59 - Stopping process 8352
+2024-08-09 17:14:59 - Send SIGINT 8352
+2024-08-09 17:14:59 - SIGINT to 8352 failed - Killing as fallback
+2024-08-09 17:14:59 - Stopping process 16216
+2024-08-09 17:14:59 - Send SIGINT 16216
+2024-08-09 17:14:59 - SIGINT to 16216 failed - Killing as fallback
+2024-08-09 17:14:59 - Finished jwtimer.exe
+2024-08-09 17:15:00 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Dev G2i\Desktop\Higor\JWTimer\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Dev G2i\Desktop\Higor\JWTimer\index.js" --scriptoptions= --log "JWTimer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-08-09 17:15:00 - Started 1432
+2024-08-09 17:15:20 - Stopping jwtimer.exe
+2024-08-09 17:15:20 - ProcessKill 1432
+2024-08-09 17:15:20 - Found child process: 21332 Name: conhost.exe
+2024-08-09 17:15:20 - Found child process: 18540 Name: node.exe
+2024-08-09 17:15:20 - Stopping process 21332
+2024-08-09 17:15:20 - Send SIGINT 21332
+2024-08-09 17:15:20 - SIGINT to 21332 failed - Killing as fallback
+2024-08-09 17:15:20 - Stopping process 18540
+2024-08-09 17:15:20 - Send SIGINT 18540
+2024-08-09 17:15:20 - SIGINT to 18540 failed - Killing as fallback
+2024-08-09 17:15:20 - Stopping process 1432
+2024-08-09 17:15:20 - Send SIGINT 1432
+2024-08-09 17:15:20 - SIGINT to 1432 failed - Killing as fallback
+2024-08-09 17:15:20 - Finished jwtimer.exe
+2024-08-09 21:50:42 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Dev G2i\Desktop\Higor\JWTimer\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Dev G2i\Desktop\Higor\JWTimer\index.js" --scriptoptions= --log "JWTimer wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-08-09 21:50:42 - Started 14652
+2024-08-09 21:51:10 - Stopping jwtimer.exe
+2024-08-09 21:51:10 - ProcessKill 14652
+2024-08-09 21:51:10 - Found child process: 16076 Name: conhost.exe
+2024-08-09 21:51:10 - Found child process: 21084 Name: node.exe
+2024-08-09 21:51:10 - Stopping process 16076
+2024-08-09 21:51:10 - Send SIGINT 16076
+2024-08-09 21:51:10 - SIGINT to 16076 failed - Killing as fallback
+2024-08-09 21:51:10 - Stopping process 21084
+2024-08-09 21:51:10 - Send SIGINT 21084
+2024-08-09 21:51:10 - SIGINT to 21084 failed - Killing as fallback
+2024-08-09 21:51:10 - Stopping process 14652
+2024-08-09 21:51:10 - Send SIGINT 14652
+2024-08-09 21:51:10 - SIGINT to 14652 failed - Killing as fallback
+2024-08-09 21:51:10 - Finished jwtimer.exe
